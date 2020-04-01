@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aicp_enchilada.mk
+    $(LOCAL_DIR)/aicp_fajita.mk
 
 COMMON_LUNCH_CHOICES := \
-    aicp_enchilada-user \
-    aicp_enchilada-userdebug \
-    aicp_enchilada-eng
+    aicp_fajita-user \
+    aicp_fajita-userdebug \
+    aicp_fajita-eng

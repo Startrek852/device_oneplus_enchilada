@@ -6,7 +6,7 @@
   },
   {
     "repository":  "AICP/device_twrp",
-    "target_path": "device/twrp/enchilada",
-    "branch":      "enchilada"
+    "target_path": "device/twrp/fajita",
+    "branch":      "fajita"
   }
 ]

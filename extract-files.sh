@@ -24,7 +24,7 @@ fi
 set -e
 
 # Required!
-export DEVICE=enchilada
+export DEVICE=fajita
 export DEVICE_COMMON=sdm845-common
 export VENDOR=oneplus
 
